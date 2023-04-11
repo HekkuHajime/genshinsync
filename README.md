@@ -1,0 +1,2 @@
+# genshinsync
+ganyu
